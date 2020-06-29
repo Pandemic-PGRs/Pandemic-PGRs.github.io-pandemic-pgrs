@@ -8,8 +8,8 @@ services: []
 sub_heading: ''
 textline: Thoughts and reflections from postgrad researchers
 hero_button:
-  text: Learn more
-  href: "/about"
+  text: ''
+  href: ''
 show_news: true
 show_staff: false
 menu:
