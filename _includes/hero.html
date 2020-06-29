@@ -8,11 +8,13 @@
 						<h2>{{ page.sub_heading }}</h2>
 					{% endif %}
 					{% if page.hero_button %}
-					<div>
+					  {% if page.hero_button.text %}
+					    <div>
 						<a href="{{ page.hero_button.href | absolute_url }}" class="pure-button button-success button-xlarge" title="{{ page.hero_button.text }}">
 							{{ page.hero_button.text }}&nbsp;<i class="fa fa-chevron-right"></i>
 						</a>
-					</div>
+					    </div>
+					  {% endif %}
 					{% endif %}
 				</div>
 			</header>
