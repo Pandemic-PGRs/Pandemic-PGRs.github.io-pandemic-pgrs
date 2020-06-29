@@ -1,0 +1,9 @@
+docs_list_title: main_nav 
+docs:
+
+- title: About
+  url: about.md
+
+- title: Home
+  url: index.md
+
