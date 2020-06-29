@@ -12,10 +12,6 @@ hero_button:
   href: ''
 show_news: true
 show_staff: false
-menu:
-  navigation:
-    identifier: _index
-    weight: 1
 
 ---
 Some text about this PGR Blog site.... blah blah blah
