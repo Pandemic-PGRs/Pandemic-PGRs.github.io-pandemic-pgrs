@@ -1,6 +1,6 @@
-title: Belkirk College of Engineering
-short_title: Belkirk
-description: Jekyll demo for Forestry CMS
+title: University of Brighton PGRs Blog
+short_title: UoB PGRs Blog
+description: University of Brighton PGRs Blog
 baseurl:
 permalink: "/:path/"
 defaults:

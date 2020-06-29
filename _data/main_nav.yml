@@ -7,3 +7,8 @@ docs:
 - title: Home
   url: index.md
 
+- title: Contact
+  url: contact.md
+
+- title: Login
+  url: https://app.forestry.io/login
