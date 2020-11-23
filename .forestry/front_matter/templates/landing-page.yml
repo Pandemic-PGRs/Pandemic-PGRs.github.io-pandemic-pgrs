@@ -56,3 +56,4 @@ fields:
   default: home
 pages:
 - index.md
+- media.md
