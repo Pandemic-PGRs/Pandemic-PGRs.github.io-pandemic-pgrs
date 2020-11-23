@@ -10,5 +10,8 @@ hero_button:
 textline: ''
 show_news: false
 show_staff: false
+menu:
+  navigation:
+    weight: 3
 
 ---

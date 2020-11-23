@@ -12,6 +12,10 @@ hero_button:
   href: ''
 show_news: true
 show_staff: false
+menu:
+  navigation:
+    weight: 1
+    title: Home
 
 ---
 ### Summary of Pandemic PGRs
