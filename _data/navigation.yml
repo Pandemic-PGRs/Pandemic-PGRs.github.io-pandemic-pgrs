@@ -1,0 +1,14 @@
+docs_list_title: main_nav 
+docs:
+
+- title: Home
+  url: /
+
+- title: About
+  url: /about
+
+- title: Contact
+  url: /contact
+
+- title: Login
+  url: https://app.forestry.io/login
