@@ -7,6 +7,12 @@ docs:
 - title: About
   url: /about
 
+- title: Campaigns
+  url: /campaigns
+
+- title: Media
+  url: /media
+
 - title: Contact
   url: /contact
 
