@@ -55,5 +55,6 @@ fields:
   hidden: true
   default: home
 pages:
+- campaigns.md
 - index.md
 - media.md
