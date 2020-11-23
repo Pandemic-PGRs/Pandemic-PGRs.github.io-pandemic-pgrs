@@ -11,6 +11,6 @@ menu:
     weight: 4
 
 ---
-## Contact Information
+Who is gonna be the contact?
 
-Email us at _prgs-blog at amanita dot pw_
+Is there a pandemic-pgrs email address?
