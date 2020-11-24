@@ -1,1 +1,5 @@
---- {}
+---
+navigation:
+- url: zzzz.com
+  weight: 7
+  title: zzzz
