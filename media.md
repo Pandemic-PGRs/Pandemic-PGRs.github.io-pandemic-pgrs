@@ -15,3 +15,4 @@ menu:
     weight: 3
 
 ---
+test
