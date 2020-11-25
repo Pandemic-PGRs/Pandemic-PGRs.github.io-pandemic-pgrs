@@ -15,7 +15,6 @@ sections:
   label: Pages
   create: all
   templates:
-  - landing-page
   - page
 - type: directory
   path: _people
