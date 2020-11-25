@@ -53,7 +53,7 @@ fields:
   label: Layout
   type: text
   hidden: true
-  default: home
+  default: page
 pages:
 - campaigns.md
 - index.md

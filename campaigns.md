@@ -1,7 +1,7 @@
 ---
 heading: ''
 sub_heading: ''
-layout: home
+layout: page
 title: Campaigns
 banner_image: ''
 hero_button:
@@ -13,7 +13,7 @@ show_staff: false
 menu:
   navigation:
     weight: 2
-published: false
+published: true
 
 ---
 Elit sed vulputate mi sit amet mauris. Et sollicitudin ac orci phasellus egestas tellus rutrum tellus. Volutpat maecenas volutpat blandit aliquam etiam erat velit scelerisque. Aliquam faucibus purus in massa tempor nec feugiat nisl. Molestie at elementum eu facilisis sed odio morbi. Elementum facilisis leo vel fringilla est ullamcorper eget nulla facilisi. Ornare arcu dui vivamus arcu felis bibendum ut. Non pulvinar neque laoreet suspendisse interdum consectetur libero. Morbi leo urna molestie at elementum eu facilisis. Sed sed risus pretium quam.

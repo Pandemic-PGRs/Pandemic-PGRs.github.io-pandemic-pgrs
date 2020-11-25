@@ -1,7 +1,7 @@
 ---
 heading: ''
 sub_heading: ''
-layout: home
+layout: page
 title: Media
 banner_image: ''
 hero_button:
