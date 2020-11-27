@@ -1,0 +1,31 @@
+---
+label: page
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: banner_image
+  label: banner_image
+- type: text
+  name: heading
+  label: heading
+- type: text
+  name: sub_heading
+  label: sub_heading
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: textline
+  label: textline
+- type: datetime
+  name: publish_date
+  label: publish_date
+- type: boolean
+  name: show_staff
+  label: show_staff
