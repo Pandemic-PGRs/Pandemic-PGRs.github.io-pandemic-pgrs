@@ -17,4 +17,4 @@ menu:
 ---
 ### Press Releases
 
-[Our response to UKRI](https://bit.ly/2IEvM5R)
+Fri 13th November: [Our response to UKRI](https://bit.ly/2IEvM5R)
