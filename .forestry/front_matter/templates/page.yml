@@ -9,9 +9,6 @@ fields:
   name: date
   label: date
 - type: text
-  name: banner_image
-  label: banner_image
-- type: text
   name: heading
   label: heading
 - type: text
@@ -26,6 +23,3 @@ fields:
 - type: datetime
   name: publish_date
   label: publish_date
-- type: boolean
-  name: show_staff
-  label: show_staff
