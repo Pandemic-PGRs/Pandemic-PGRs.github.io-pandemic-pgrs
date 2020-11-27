@@ -32,5 +32,3 @@ fields:
     schema:
       format: html-blocks
   label: Content
-pages:
-- test.md
