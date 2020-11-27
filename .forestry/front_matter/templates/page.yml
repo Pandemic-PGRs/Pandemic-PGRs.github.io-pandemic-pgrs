@@ -18,6 +18,7 @@ fields:
   name: layout
   label: layout
   default: zzzz
+  hidden: true
 - type: text
   name: textline
   label: textline
