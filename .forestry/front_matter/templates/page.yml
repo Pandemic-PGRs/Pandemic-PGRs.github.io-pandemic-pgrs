@@ -17,11 +17,13 @@ fields:
 - type: text
   name: layout
   label: layout
+  default: page
   hidden: true
-  default: 'page'
 - type: text
   name: textline
   label: textline
 - type: datetime
   name: publish_date
   label: publish_date
+pages:
+- get-involved.md
