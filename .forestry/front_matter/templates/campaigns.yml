@@ -15,5 +15,6 @@ fields:
   name: layout
   label: layout
   default: page
+  hidden: true
 pages:
 - _campaigns/pgrs-are-staff.md
