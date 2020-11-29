@@ -5,12 +5,6 @@ fields:
 - type: text
   name: title
   label: title
-- type: datetime
-  name: date
-  label: date
-- type: text
-  name: banner_image
-  label: banner_image
 - type: text
   name: heading
   label: heading
@@ -20,11 +14,6 @@ fields:
 - type: text
   name: layout
   label: layout
-- type: text
-  name: textline
-  label: textline
-- type: datetime
-  name: publish_date
-  label: publish_date
+  default: page
 pages:
 - _campaigns/pgrs-are-staff.md
