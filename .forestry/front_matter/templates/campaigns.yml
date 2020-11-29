@@ -26,3 +26,5 @@ fields:
 - type: datetime
   name: publish_date
   label: publish_date
+pages:
+- _campaigns/pgrs-are-staff.md
