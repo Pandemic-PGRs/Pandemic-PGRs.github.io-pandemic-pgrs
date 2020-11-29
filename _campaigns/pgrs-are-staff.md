@@ -6,7 +6,7 @@ heading: ''
 sub_heading: ''
 layout: ''
 textline: ''
-publish_date: 
+publish_date: 2020-11-18 00:00:00 +0000
 
 ---
 testing
