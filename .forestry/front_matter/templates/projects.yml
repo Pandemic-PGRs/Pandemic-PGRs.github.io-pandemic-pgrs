@@ -15,19 +15,6 @@ fields:
   name: title
   label: title
 - type: text
-  name: banner_image
-  label: banner_image
-- type: field_group
-  name: hero_button
-  label: hero_button
-  fields:
-  - type: text
-    name: text
-    label: text
-  - type: text
-    name: href
-    label: href
-- type: text
   name: textline
   label: textline
 - type: boolean
