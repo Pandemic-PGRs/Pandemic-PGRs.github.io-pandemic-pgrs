@@ -14,14 +14,11 @@ defaults:
     values:
       layout: post
 collections:
-  people:
-    output: true
-    permalink: "/about/:path/"
   posts:
     output: true
   campaigns:
     output: true
-    permalink: "/projects/:path/"
+    permalink: "/campaigns/:path/"
 # tag_page_layout: tag_page
 # tag_page_dir: tag
 jekyll-archives:
