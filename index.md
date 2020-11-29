@@ -1,5 +1,5 @@
 ---
-title: Pandemic PGRs
+title: Home
 banner_image: ''
 layout: landing-page
 heading: ''
@@ -15,7 +15,6 @@ show_staff: false
 menu:
   navigation:
     weight: 1
-    title: Home
 
 ---
 **Whether full- or part-time, self-funded, GTA or TA, partly funded, UK-funded, internationally funded, on a visa, EU or UK citizen, with caring responsibilities, disabilities, pre-existing health conditions... We have started to organise to coordinate collective action that will ensure we are getting the support we need in face of the pandemic.**
