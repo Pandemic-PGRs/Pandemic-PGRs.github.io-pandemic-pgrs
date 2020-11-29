@@ -15,7 +15,7 @@ fields:
   label: Publish Date
   type: datetime
   hidden: false
-  default: ''
+  default: now
 - name: tags
   label: Tags
   type: tag_list
