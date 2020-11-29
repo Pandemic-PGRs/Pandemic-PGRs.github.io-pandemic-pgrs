@@ -19,7 +19,7 @@ collections:
     permalink: "/about/:path/"
   posts:
     output: true
-  projects:
+  campaigns:
     output: true
     permalink: "/projects/:path/"
 # tag_page_layout: tag_page
