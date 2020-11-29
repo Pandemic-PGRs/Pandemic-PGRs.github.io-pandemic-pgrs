@@ -17,12 +17,12 @@ sections:
   templates:
   - page
 - type: directory
-  path: _projects
+  path: _campaigns
   label: Campaigns
   create: all
   match: "*"
   templates:
-  - project
+  - campaigns
 - type: document
   path: _data/information.yml
   label: Contact Information
