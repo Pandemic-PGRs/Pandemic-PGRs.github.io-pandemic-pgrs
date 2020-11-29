@@ -16,6 +16,8 @@ fields:
   type: datetime
   hidden: false
   default: now
+  config:
+    export_format: YYYY-MM-DDThh:mm:00.000+00:00
 - name: tags
   label: Tags
   type: tag_list
@@ -38,5 +40,3 @@ fields:
   type: text
   hidden: true
   default: post
-pages:
-- _posts/solidarity-with-anthropology-students.md
