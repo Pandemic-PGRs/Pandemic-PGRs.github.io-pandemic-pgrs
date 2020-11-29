@@ -1,5 +1,5 @@
 <footer class="site-footer">
-	{% if false %}
+	{% if footer.menu.enabled %}
         <div class="footer-col pure-u-1 pure-u-md-1-4">
             <h3>About</h3>
             <ul>
@@ -11,13 +11,21 @@
         <div class="footer-col pure-u-1 pure-u-md-1-4">
         </div>
 	</div>
+    {% endif %}
+    <ul class="social-nav">
+
+       <li> <a href="https://www.facebook.com/HighfieldCountryPark"> <i class="fa fa-facebook">   </i> </a> </li>
+       <li> <a href="https://twitter.com/HighfieldCP_Lev"> <i class="fa fa-twitter">   </i> </a> </li>
+       <li> <a href="https://github.com/ajlee/highfield-country-park-prototype"> <i class="fa fa-github">   </i> </a> </li>
+       <li> <a href="https://www.instagram.com/highfieldcountrypark/"> <i class="fa fa-instagram">   </i> </a> </li>
+
+    </ul>
 	<div class="copyright">
         <p>
             &copy;{{ 'now' | date: "%Y" }} {{ site.title }} - All Rights Reserved<br>
 			<a href="{{ "/admin" | absolute_url }}">Site Admin</a>
 		</p>
 	</div>
-	{% endif %}
 </footer>
 <!-- Javascript -->
 <script src="{{ "/js/main.js" | absolute_url }}" type="text/javascript"></script>
