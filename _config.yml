@@ -1,6 +1,6 @@
-title: University of Brighton PGRs Blog
-short_title: UoB PGRs Blog
-description: University of Brighton PGRs Blog
+title: Pandemic PGRs - solidarity network for postgrad researchers
+short_title: Pandemic PGRs
+description: solidarity network for postgrad researchers
 baseurl:
 permalink: "/:path/"
 defaults:
