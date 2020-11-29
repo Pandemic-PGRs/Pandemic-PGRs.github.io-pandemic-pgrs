@@ -1,0 +1,38 @@
+---
+label: Projects
+hide_body: false
+fields:
+- type: text
+  name: heading
+  label: heading
+- type: text
+  name: sub_heading
+  label: sub_heading
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: title
+  label: title
+- type: text
+  name: banner_image
+  label: banner_image
+- type: field_group
+  name: hero_button
+  label: hero_button
+  fields:
+  - type: text
+    name: text
+    label: text
+  - type: text
+    name: href
+    label: href
+- type: text
+  name: textline
+  label: textline
+- type: boolean
+  name: show_news
+  label: show_news
+- type: boolean
+  name: show_staff
+  label: show_staff
