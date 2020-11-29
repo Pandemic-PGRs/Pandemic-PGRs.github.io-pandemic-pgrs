@@ -2,7 +2,7 @@
 layout: post
 title: Solidarity with Anthropology Students
 sub_heading: Sign the open letter!
-date: 2020-11-03 00:00:00 +0000
+date: '2017-11-01T03:00:00.000+00:00'
 tags: []
 banner_image: ''
 related_posts: []
