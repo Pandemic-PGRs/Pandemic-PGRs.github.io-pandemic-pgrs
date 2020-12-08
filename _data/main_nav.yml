@@ -10,11 +10,11 @@ docs:
 - title: Campaigns
   url: /campaigns
 
+- title: Resources
+  url: /resources
+
 - title: Media
   url: /media
 
 - title: Contact
   url: /contact
-
-- title: Login
-  url: https://app.forestry.io/login
