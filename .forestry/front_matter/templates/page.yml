@@ -26,3 +26,5 @@ fields:
 - type: datetime
   name: publish_date
   label: publish_date
+pages:
+- resources.md
