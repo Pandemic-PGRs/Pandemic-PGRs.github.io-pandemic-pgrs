@@ -1,0 +1,38 @@
+
+/* using https://codepen.io/maxivan/pen/mdyVzXd */
+
+#menu-icon {
+	position: absolute;
+	top:2rem;
+	right:2rem;
+	cursor: pointer;
+}
+
+.main-nav {
+	max-height: 0;
+}
+
+.main-nav.expand {
+	max-height: 20em;
+	display: block;
+	transition: 1s;
+}
+
+.main-nav.expand .navigation {
+	width: 100%;
+	background-color: #f4f4f4;
+	padding: 1em;
+}
+.main-nav.expand li {
+	float:none;
+	display: block;
+}
+
+@media only screen and (min-width : 768px) {
+
+	/* Mobile menu icon */
+	#menu-icon {
+		display: none;
+	}
+
+}
