@@ -15,20 +15,11 @@ menu:
     weight: 2
 
 ---
-
 ## Pandemic PGRs
 
-Whether full- or part-time, self-funded, GTA or TA, partly funded, UK-funded, internationally funded, on a visa, EU or UK citizen, with caring responsibilities, disabilities, pre-existing health conditions... We have started to organise to coordinate collective action that will ensure we are getting the support we need in face of the pandemic.
+We are organising to coordinate collective action that will ensure we are getting the support we need in face of the pandemic. Universities across the UK have vastly differing, contradicting and incoherent policies towards PGRs. UKRI, the national body that could have provided leadership during this crisis, has let down PGRs. It has ignored the research community and even research that it commissioned itself, which shows PGRs need far greater support. 
 
-This has not been the case. Instead universities across the UK have vastly differing, contradicting and incoherent policies towards PGRs. At many institutions, PGRs have been an afterthought. Most institutions hold the view that individualist approaches suffice. We have been speaking to PGRs across the country and beg to differ. Our aim is to get a coherent and responsible approach for all PGRs in this crisis that acknowledges the disruption to all PGR projects. We want blanket, funded extensions for all.
-
-This is why we started to organise.
-
-Much of our work over the last few months has been campaigning for blanket, unconditional extensions from the UKRI. Other workers have been furloughed, but PGRs were somehow expected to keep working. As well as this, we have started working with the UCU on PGRs Are Staff, a campaign to help PGR researchers get workers rights and protections that are currently unavailable. In the future, we will be looking to grow and campaign on other issues too.
-
-However, we are focusing our attention at the moment on the Pandemic PGR campaign as this is currently of such major importance because the impact of the covid pandemic on PGR researchers has been huge.
-
-The UK is already extremely unequal. Minorities are often excluded from higher education, and yet it is working class, first generation, disabled, chronically ill, neurodivergent, LGBTQI+, international, parents, carers, black and minority people that are impacted most from the covid crisis.
+[Find out more about the Pandemic PGRs campaign.](/pandemic-pgrs-campaign/)
 
 If you'd like to get involved, please sign up to our [email list](https://www.jiscmail.ac.uk/cgi-bin/wa-jisc.exe?SUBED1=PGR-COVID19-ORGANISING&A=1). We have a number of WhatsApp groups too, from general discussion, to specific groups for parents and carers. Please contact us on [Twitter](http://twitter.com/pandemicpgrs) for details of joining.
 
