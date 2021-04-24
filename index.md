@@ -2,10 +2,10 @@
 title: Post-Graduate Researchers UK
 banner_image: ''
 layout: landing-page
-heading: a grassroots collective demanding fair conditions
+heading: ''
 partners: []
 services: []
-sub_heading: ''
+sub_heading: a grassroots collective demanding fair conditions
 textline: Short description to show in Google results
 hero_button:
   text: ''
