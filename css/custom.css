@@ -1,3 +1,7 @@
+h1, h2, h3, h4 {
+	font-weight:700;
+	padding-top: 2em;
+}
 
 /* using https://codepen.io/maxivan/pen/mdyVzXd */
 
@@ -26,6 +30,11 @@
 .main-nav.expand li {
 	float:none;
 	display: block;
+}
+
+.content:first-child {
+	margin-top:0;
+	padding-top:0;
 }
 
 @media only screen and (min-width : 768px) {
