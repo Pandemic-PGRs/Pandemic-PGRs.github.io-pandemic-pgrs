@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Post-Graduate Researchers UK Collective
 banner_image: ''
 layout: landing-page
 heading: ''

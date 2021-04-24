@@ -548,11 +548,12 @@ a, h1, h2, h3, h4, li, p {
     overflow: visible;
 }
 .logo {
+	display:inline;
     margin: 0;
 }
 .logo a {
     margin-top: 7px;
-    display: block;
+    display: inline;
     width: 100px;
     background-image: url(../img/logo.png);
     background-repeat: no-repeat;
