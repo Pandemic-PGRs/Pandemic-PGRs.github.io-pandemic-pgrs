@@ -19,6 +19,6 @@ menu:
 ---
 The COVID-19 pandemic has highlighted starkly how unjust and unequal the situation is for PGRs in the UK. These issues did not begin with the pandemic but they have been significantly exacerbated by it.
 
-Neither students nor members of staff, there are limited means through which PGRs can tackle their issues. Major structural reforms are needed and we will only achieve this through collective action and organising to develop a community where PGRs aren’t isolated with the struggles that we all face. Our main campaigns are centred on fighting for adequate pandemic-related support for all PGRs and developing our collective organising capacity. We have also helped launch and lead the UCU PGRs as Staff campaign.
+Neither students nor members of staff, there are limited means through which PGRs can tackle their issues. Major structural reforms are needed and we will only achieve this through collective action and organising to develop a community where PGRs aren’t isolated with the struggles that we all face. [Our main campaigns](/campaigns) are centred on [fighting for adequate pandemic-related support](/pandemic-pgrs-campaign) for all PGRs and developing our collective organising capacity. We have also helped launch and lead the UCU [PGRs are Staff campaign](/pgrs-are-staff).
 
 Pandemic PGRs will organise around making postgraduate research a place for everyone. We demand that PGRs have the support,working conditions, job opportunities, security, and recognition that we deserve. Get organising and make this a reality!
