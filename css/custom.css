@@ -5,33 +5,6 @@ h1, h2, h3, h4 {
 
 /* using https://codepen.io/maxivan/pen/mdyVzXd */
 
-#menu-icon {
-	position: absolute;
-	top:2rem;
-	right:2rem;
-	cursor: pointer;
-}
-
-.main-nav {
-	max-height: 0;
-}
-
-.main-nav.expand {
-	max-height: 20em;
-	display: block;
-	transition: 1s;
-}
-
-.main-nav.expand .navigation {
-	width: 100%;
-	background-color: #f4f4f4;
-	padding: 1em;
-}
-.main-nav.expand li {
-	float:none;
-	display: block;
-}
-
 .main-content *:first-child {
 	margin-top:0;
 	padding-top:0;
@@ -42,6 +15,37 @@ h1, h2, h3, h4 {
 	/* Mobile menu icon */
 	#menu-icon {
 		display: none;
+	}
+
+}
+
+@media only screen and (max-width: 767px) {
+	
+	#menu-icon {
+		position: absolute;
+		top:2rem;
+		right:2rem;
+		cursor: pointer;
+	}
+
+	.main-nav {
+		max-height: 0;
+	}
+
+	.main-nav.expand {
+		max-height: 20em;
+		display: block;
+		transition: 1s;
+	}
+
+	.main-nav.expand .navigation {
+		width: 100%;
+		background-color: #f4f4f4;
+		padding: 1em;
+	}
+	.main-nav.expand li {
+		float:none;
+		display: block;
 	}
 
 }
