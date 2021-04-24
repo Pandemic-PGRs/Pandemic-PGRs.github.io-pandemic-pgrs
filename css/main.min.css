@@ -577,8 +577,8 @@ a, h1, h2, h3, h4, li, p {
 .plain-header h2 {
     font-size: 36px;
     font-weight: 700;
-    color: #1e405d;
     margin: 0;
+    font-style: italic;
 }
 .plain-header h3 {
     font-size: 20px;
