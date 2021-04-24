@@ -25,10 +25,6 @@ We are organising to coordinate collective action that will ensure we are gettin
 
 Pandemic PGRs believe that PGRs should be treated as staff, with the same workers rights and legal protections that other workers have. We have been working with the University and College Union (UCU) to make this happen.
 
-We will only be able to do that with a strong campaign behind us and with the majority of PGRs in UCU membership and actively campaigning for the change.
+With PGRs behind a strong campaign and with our members organising inside UCU we are really making progress. Get involved and let's ensure all PGRs get the protection and rights they deserve.
 
 [Find out more about this campaign.](/pgrs-are-staff)
-
-## Get Involved
-
-If you'd like to get involved, please sign up to our [email list](https://www.jiscmail.ac.uk/cgi-bin/wa-jisc.exe?SUBED1=PGR-COVID19-ORGANISING&A=1). We have a number of WhatsApp groups too, from general discussion, to specific groups for parents and carers. Please contact us on [Twitter](http://twitter.com/pandemicpgrs) for details of joining.
