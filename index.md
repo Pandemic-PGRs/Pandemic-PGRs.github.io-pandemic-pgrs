@@ -1,8 +1,8 @@
 ---
-title: Post-Graduate Researchers UK Collective
+title: Post-Graduate Researchers UK
 banner_image: ''
 layout: landing-page
-heading: ''
+heading: a grassroots collective demanding fair conditions
 partners: []
 services: []
 sub_heading: ''
@@ -17,7 +17,7 @@ menu:
     weight: 1
 
 ---
-Pandemic PGRs is a grassroots collective of post-graduate researchers demanding fair conditions. The COVID-19 pandemic has highlighted starkly how unjust and unequal the situation is for PGRs in the UK. These issues did not begin with the pandemic but they have been significantly exacerbated by it.
+The COVID-19 pandemic has highlighted starkly how unjust and unequal the situation is for PGRs in the UK. These issues did not begin with the pandemic but they have been significantly exacerbated by it.
 
 Neither students nor members of staff, there are limited means through which PGRs can tackle their issues. Major structural reforms are needed and we will only achieve this through collective action and organising to develop a community where PGRs aren’t isolated with the struggles that we all face. Our main campaigns are centred on fighting for adequate pandemic-related support for all PGRs and developing our collective organising capacity. We have also helped launch and lead the UCU PGRs as Staff campaign.
 
