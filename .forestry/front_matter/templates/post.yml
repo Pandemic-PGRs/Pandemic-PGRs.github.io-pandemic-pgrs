@@ -40,3 +40,6 @@ fields:
   type: text
   hidden: true
   default: post
+pages:
+- _posts/boycott-researchfish.md
+- _posts/falling-short.md

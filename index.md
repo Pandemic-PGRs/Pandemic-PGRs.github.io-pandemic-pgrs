@@ -15,14 +15,10 @@ show_staff: false
 menu:
   navigation:
     weight: 1
-    
+
 ---
+Pandemic PGRs is a grassroots collective of post-graduate researchers demanding fair conditions. The COVID-19 pandemic has highlighted starkly how unjust and unequal the situation is for PGRs in the UK. These issues did not begin with the pandemic but they have been significantly exacerbated by it.
 
+Neither students nor members of staff, there are limited means through which PGRs can tackle their issues. Major structural reforms are needed and we will only achieve this through collective action and organising to develop a community where PGRs aren’t isolated with the struggles that we all face. Our main campaigns are centred on fighting for adequate pandemic-related support for all PGRs and developing our collective organising capacity. We have also helped launch and lead the UCU PGRs as Staff campaign.
 
-Pandemic PGRs is a grassroots collective of post-graduate researchers demanding fair conditions. The current pandemic has highlighted starkly how unjust and unequal PGR research is in the UK - but these issues did not begin with the pandemic, and they will not be solved when the pandemic ends.
-
-The problems in post-grad reseach need major reform. It is through collective organisation and action that we will transform it.
-
-Our main campaigns currently are fighting for adequate support for researchers affected by the pandemic and getting PGRs recognised as workers. We PGRs have organised around our experience of the dehumanising treatment of many researchers during the pandemic, which doesn't recognise the impact the pandemic is having on research, mental and physical health, and our ability to even complete our research. Those who are already disadvantaged have been affected the most. 
-
-We aim to make post-graduate research a place for everyone, whatever your background, attributes or income, where researchers have good working conditions, job opportunities, and a recognition of the important role that our research plays. Join us and help to us make it happen.
+Pandemic PGRs will organise around making postgraduate research a place for everyone. We demand that PGRs have the support,working conditions, job opportunities, security, and recognition that we deserve. Get organising and make this a reality!

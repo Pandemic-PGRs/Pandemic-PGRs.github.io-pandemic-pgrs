@@ -27,4 +27,6 @@ fields:
   name: publish_date
   label: publish_date
 pages:
+- pandemic-pgrs-campaign.md
+- pgrs-are-staff.md
 - resources.md
