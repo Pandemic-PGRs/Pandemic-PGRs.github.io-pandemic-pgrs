@@ -1,6 +1,8 @@
 /** CUSTOM CSS **/
 
 
+
+
 /* Text and font styles
 */
 .main-content h1, .main-content h2, .main-content h3, .main-content h4 {
@@ -17,6 +19,14 @@
 	padding-top:0;
 }
 
+/* Headers
+*/ 
+.plain-header { 
+   color:#000;
+ }
+ .plain-header h2 {
+ 	font-style: italic;
+ }
 
 /* Navigation
 */
