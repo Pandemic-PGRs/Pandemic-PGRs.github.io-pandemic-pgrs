@@ -1,5 +1,5 @@
 ---
-date: 2021-04-20 16:44:31 +0000
+date: 2021-04-20T16:44:31.000+00:00
 layout: page
 title: Pandemic PGRs Campaign
 heading: Demanding Adequate Support for PGRs
@@ -8,8 +8,6 @@ textline: ''
 publish_date: 
 
 ---
-\***Note to self: add contact info to contact page for parents carers (on letter)
-
 The aim of the Pandemic PGR campaign was to enable PGRs organise collectively to demand a better response to the pandemic. UKRI, the government and many institutions have let down PGRs, providing inadequate support, awful communication and a failure to show any leadership about providing support to researchers. As it is, the PGR sector is likely to become less diverse, with the pandemic exaggerating existing inequalities.
 
 This is an overview of the campaign so far – we are determined to keep fighting for extra support so please join our campaign!
@@ -49,7 +47,7 @@ The UKRI’s response told the majority of researchers they still had to finish 
 
 There are many researchers that were half way through data collection, or were studying subjects that actually required facilities (such as studying chemistry or biology labs) and couldn’t just suddenly adapt their research to be home-based.[ On 14th Nov we published a response](https://drive.google.com/file/d/1EtIqZ4XzwVQ-arBtZxjjbGhqsWvSD-Ti/view), heavily criticising UKRI, and reiterating our call for blanket extensions and asking for them to implement the NatCen recommendations.
 
-## Parents & Carers Open letter 
+## Parents & Carers Open letter
 
 Parents and carers are another group that has been affected hugely by the pandemic, and have organised a subgroup for mutual support and organising (you can find joining info on the contact page). With the closure of schools, PGRs with children had to spend time at home teaching instead, meaning that research was difficult or even impossible. Likewise, those with caring responsibilities have often found themselves unable to access the same support as before. But no specific targeted support was provided by UKRI.
 
