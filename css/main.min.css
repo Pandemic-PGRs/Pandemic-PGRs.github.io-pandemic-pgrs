@@ -573,6 +573,7 @@ a, h1, h2, h3, h4, li, p {
     background: #f4f4f4;
     padding: 40px;
     text-align: center;
+    color:#000;
 }
 .plain-header h2 {
     font-size: 36px;
