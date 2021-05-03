@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Pandemic PGRs Campaign
+title: Pandemic PGRs
 heading: ''
 sub_heading: ''
 
