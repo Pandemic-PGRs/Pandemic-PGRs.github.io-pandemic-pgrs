@@ -19,7 +19,7 @@ menu:
 
 We are organising to coordinate collective action that will ensure we are getting the support we need in face of the pandemic. Universities across the UK have vastly differing, contradicting and incoherent policies towards PGRs. UKRI, the national body that could have provided leadership during this crisis, has let down PGRs. It has ignored the research community and even research that it commissioned itself, which shows PGRs need far greater support.
 
-[Find out more about the Pandemic PGRs campaign.](campaigns/pgrs-are-staff/)
+[Find out more about the Pandemic PGRs campaign.](/campaigns/pgrs-are-staff/)
 
 ## PGRs Are Staff
 
