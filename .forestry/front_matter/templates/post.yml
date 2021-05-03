@@ -40,3 +40,5 @@ fields:
   type: text
   hidden: true
   default: post
+pages:
+- _posts/falling-short-our-comprehensive-report-on-ukri-failings.md
