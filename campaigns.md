@@ -27,4 +27,4 @@ Pandemic PGRs believe that PGRs should be treated as staff, with the same worker
 
 With PGRs behind a strong campaign and with our members organising inside UCU we are really making progress. Get involved and let's ensure all PGRs get the protection and rights they deserve.
 
-[Find out more about this campaign.](/campaigns/pgrs-are-staff/)
+[Find out more about this campaign](/campaigns/pgrs-are-staff/)
