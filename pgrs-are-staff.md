@@ -6,6 +6,7 @@ heading: ''
 sub_heading: ''
 textline: ''
 publish_date: 2021-04-18T23:00:00.000+00:00
+published: false
 
 ---
 At the end of September 2020, UCU’s Special Higher Education Sector Conference passed the following motion:
