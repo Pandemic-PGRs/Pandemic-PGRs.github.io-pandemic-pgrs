@@ -8,7 +8,7 @@ textline: ''
 publish_date: 
 
 ---
-If there are some resources that you think should be on this list, please let us know on the whatsapp group or at [twitter.com/pandemicpgrs](twitter.com/pandemicpgrs)
+If there are some resources that you think should be on this list, please let us know on the WhatsApp group, Slack or at [twitter.com/pandemicpgrs](twitter.com/pandemicpgrs)
 
 * ONGOING: [Ongoing UK University Support for PGRs during Covid-19](https://petition.parliament.uk/petitions/315248)
 * ONGOING: [UKRI should extend all PhD students affected by COVID-19](https://petition.parliament.uk/petitions/315248)
