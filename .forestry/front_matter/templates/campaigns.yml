@@ -17,5 +17,6 @@ fields:
   default: page
   hidden: true
 pages:
+- _campaigns/pandemic-pgrs.md
 - _campaigns/pgrs-are-staff.md
 - _campaigns/test.md
