@@ -6,6 +6,7 @@ heading: Demanding Adequate Support for PGRs
 sub_heading: ''
 textline: ''
 publish_date: 
+published: false
 
 ---
 The aim of the Pandemic PGR campaign was to enable PGRs organise collectively to demand a better response to the pandemic. UKRI, the government and many institutions have let down PGRs, providing inadequate support, awful communication and a failure to show any leadership about providing support to researchers. As it is, the PGR sector is likely to become less diverse, with the pandemic exaggerating existing inequalities.
