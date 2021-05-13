@@ -1,12 +1,8 @@
 ---
-date: 2021-04-20T16:44:31.000+00:00
 layout: page
-title: Pandemic PGRs Campaign
-heading: Demanding Adequate Support for PGRs
+title: Pandemic PGRs
+heading: ''
 sub_heading: ''
-textline: ''
-publish_date: 
-published: false
 
 ---
 The aim of the Pandemic PGR campaign was to enable PGRs organise collectively to demand a better response to the pandemic. UKRI, the government and many institutions have let down PGRs, providing inadequate support, awful communication and a failure to show any leadership about providing support to researchers. As it is, the PGR sector is likely to become less diverse, with the pandemic exaggerating existing inequalities.
@@ -58,4 +54,4 @@ Parents and carers are another group that has been affected hugely by the pandem
 
 [The Falling Short report](https://drive.google.com/file/d/1-6sBsboTyQ820axeJIFd8S4a2AOgSS5K/view) published in early 2021 came out of the collective frustration Pandemic PGRs experienced due to a lack of support from government, funders, and universities, and is a direct response to this and UKRI’s Phase 2 Doctoral Funding Extension Policy. The report highlights how the UKRI’s Phase 2 Doctoral Funding Extension Policy in inadequate. First, it disregards the evidence of the plight of PGRs throughout the country, evidence that was gathered during research commissioned by UKRI itself. It disregards the needs PGRs have for funded extensions to be able to continue and complete their projects, and presents qualifying criteria for extensions which are unfair, inflexible, non-inclusive, and unsympathetic to the disruptions this pandemic has caused. Ultimately, the Phase 2 Policy provides no real action on equality from the Phase 1 evaluations, it ignores the voices of researchers which UKRI has a duty to support, and falls short on providing that support to Postgraduates hit by the global pandemic and crisis in higher education.
 
-The Falling Short report provides a response to UKRI’s own commissioned and direct reports and policies since the beginning of the pandemic, and especially since the most recent announcement in December 2020. We have felt compelled to write a full report due to the extent of misrepresentations and failings we have identified in this material, and the number of issues that have not been explored. We have made a number of recommendations to UKRI about how they must improve practice. We accept, however, that UKRI is not the only relevant stakeholder in this process. As such, we have also made recommendations to government and to universities and ROs. In the interests of equality, and the future of the UK’s research landscape, these must be taken forward.
+The Falling Short report provides a response to UKRI’s own commissioned and direct reports and policies since the beginning of the pandemic, and especially since the most recent announcement in December 2020. We have felt compelled to write a full report due to the extent of misrepresentations and failings we have identified in this material, and the number of issues that have not been explored. We have made a number of recommendations to UKRI about how they must improve practice. We accept, however, that UKRI is not the only relevant stakeholder in this process. As such, we have also made recommendations to government and to universities and ROs. In the interests of equality, and the future of the UK’s research landscape, these must be taken forward. If you would like to email your DTP or MP about our report, [we have provide templates for you to use as a starting point]().

@@ -1,14 +1,14 @@
 ---
-date: 2021-04-20 17:04:04 +0000
+date: 2021-04-20T17:04:04.000+00:00
 layout: page
 title: PGRs Are Staff
 heading: ''
 sub_heading: ''
 textline: ''
-publish_date: 2021-04-18 23:00:00 +0000
+publish_date: 2021-04-18T23:00:00.000+00:00
+published: false
 
 ---
-
 At the end of September 2020, UCU’s Special Higher Education Sector Conference passed the following motion:
 
 _“Covid-19 exposed the contradiction of PGRs being viewed as students rather than staff. Open letters revealed that PGRs' work was affected by the pandemic in the same way as members of staff; however, because of their student status, PGRs were unable to access neither employer nor government support such as benefits and furlough. Instead of being paid for their work, PGRs pay to do the work on which Universities and companies' profit. This is contrary to practice in other sectors (graduate training schemes) and countries, where PGRs would not be seen as students, but workers. The unpaid research labour of PGRs cements the expectation of unpaid labour throughout academic careers, which contributes to the workload and casualisation crisis in the sector._
@@ -35,4 +35,4 @@ UCU also recognise a number of issues that need to be determined as part of this
 
 To realise our goals we will need to persuade the employers, government (including the home office), UKRI and other funders that treating PGRs as employees is the right thing to do.
 
-It is important that the campaign is supported by PGRs both within UCU and those yet to join. All UCU members can help with this by talking about the issue with colleagues, getting involved in the campaign and encouraging PGR colleagues to join UCU and get involved.
+It is important that the campaign is supported by PGRs both within UCU and those yet to join. All UCU members can help with this by talking about the issue with colleagues, getting involved in the campaign and encouraging PGR colleagues to join UCU and get involved. To get involved you can contact us via Twitter or email. You can also fill in our [expression of interest form]( https://docs.google.com/forms/d/e/1FAIpQLSdX63kWvHP8iMUwaOttEXqGiNmjf6v5LFKXgFOhYITPO0xzoA/viewform).
