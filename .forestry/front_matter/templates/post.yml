@@ -40,3 +40,5 @@ fields:
   type: text
   hidden: true
   default: post
+pages:
+- _posts/international-students-and-isolation-during-covid-19.md
