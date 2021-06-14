@@ -1,7 +1,7 @@
 ---
 date: 2021-06-14T08:49:00.000+00:00
 layout: post
-title: International Students and Isolation During Covid-19
+title: International PGRs and Isolation During Covid-19
 sub_heading: ''
 tags: []
 banner_image: ''
