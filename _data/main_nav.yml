@@ -1,4 +1,4 @@
-docs_list_title: main_nav 
+docs_list_title: main_nav
 docs:
 
 - title: Home
@@ -6,6 +6,10 @@ docs:
 
 - title: About
   url: /about
+
+
+- title: Posts
+  url: /posts
 
 - title: Campaigns
   url: /campaigns
