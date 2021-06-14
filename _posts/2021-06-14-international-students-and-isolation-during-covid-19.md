@@ -3,7 +3,8 @@ date: 2021-06-14T08:49:00.000+00:00
 layout: post
 title: International PGRs and Isolation During Covid-19
 sub_heading: ''
-tags: []
+tags:
+- blog
 banner_image: ''
 related_posts: []
 
