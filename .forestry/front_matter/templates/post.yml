@@ -40,3 +40,5 @@ fields:
   type: text
   hidden: true
   default: post
+pages:
+- _posts/2021-06-14-international-students-and-isolation-during-covid-19.md
