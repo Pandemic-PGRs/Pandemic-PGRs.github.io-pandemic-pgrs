@@ -23,4 +23,4 @@ I feel like the sense of isolation and loneliness which are already common place
 
 ***
 
-_We are publishing blog posts from the PGR community about the pandemic. This can be on any topic, such as personal experiences, opinion pieces or poetry. If you would like to contribute please DM us on Twitter at_ [_@pandemicPGRs_](We are publishing blog posts from the PGR community about the pandemic. This can be on any topic, such as personal experiences, opinion pieces or poetry. If you would like to contribute please DM us on Twitter at twitter.com/pandemicPGRs/)
+_We are publishing blog posts from the PGR community about the pandemic. This can be on any topic, such as personal experiences, opinion pieces or poetry. If you would like to contribute please DM us on Twitter at_ [_@pandemicPGRs_](http://twitter.com/pandemicpgrs)
