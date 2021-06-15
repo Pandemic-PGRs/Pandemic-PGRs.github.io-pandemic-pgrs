@@ -3,12 +3,13 @@ date: 2021-06-14T08:49:00.000+00:00
 layout: post
 title: International PGRs and Isolation During Covid-19
 sub_heading: ''
-tags: []
+tags:
+- blog
 banner_image: ''
 related_posts: []
 
 ---
-_This post was written by Thiago Bogossian, PhD researcher at the University of Surrey. You can reach him on Twitter at_ [_https://twitter.com/thibogossian_](https://twitter.com/thibogossian "https://twitter.com/thibogossian") _and read his blog at_ [_https://thiagobogossian.wordpress.com/_](https://thiagobogossian.wordpress.com/ "https://thiagobogossian.wordpress.com/")_._
+_This post was written by Thiago Bogossian, PhD researcher at the University of Surrey. You can reach him on Twitter at_ [_@thibogossian_](https://twitter.com/thibogossian "https://twitter.com/thibogossian") _and read his blog at_ [_https://thiagobogossian.wordpress.com/_](https://thiagobogossian.wordpress.com/ "https://thiagobogossian.wordpress.com/")_._
 
 ***
 
@@ -22,4 +23,4 @@ I feel like the sense of isolation and loneliness which are already common place
 
 ***
 
-_We are publishing blog posts from the PGR community about the pandemic. This can be on any topic, such as personal experiences, opinion pieces or poetry. If you would like to contribute please DM us on Twitter at_ [_http://twitter.com/pandemicPGRs/_](We are publishing blog posts from the PGR community about the pandemic. This can be on any topic, such as personal experiences, opinion pieces or poetry. If you would like to contribute please DM us on Twitter at twitter.com/pandemicPGRs/) 
+_We are publishing blog posts from the PGR community about the pandemic. This can be on any topic, such as personal experiences, opinion pieces or poetry. If you would like to contribute please DM us on Twitter at_ [_@pandemicPGRs_](We are publishing blog posts from the PGR community about the pandemic. This can be on any topic, such as personal experiences, opinion pieces or poetry. If you would like to contribute please DM us on Twitter at twitter.com/pandemicPGRs/)
