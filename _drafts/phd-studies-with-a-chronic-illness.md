@@ -8,7 +8,7 @@ banner_image: ''
 related_posts: []
 
 ---
-From anonymous
+From anonymous - needs to be run by the author on twitter first as edited
 
 If I had to try and isolate one of the biggest issues during the pandemic for me, it's that as a PhD with a respiratory illness I felt like I had no support.
 
