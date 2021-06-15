@@ -1,9 +1,10 @@
 ---
 date: 2021-06-15T09:03:00.000+00:00
 layout: post
-title: Lab Work During the Pandemic with Respiratory Illness
-sub_heading: ''
-tags: []
+title: Health Issues and the Unequal Impact of the Pandemic
+sub_heading: 'How the lack of support widens existing inequalities '
+tags:
+- blog
 banner_image: ''
 related_posts: []
 
