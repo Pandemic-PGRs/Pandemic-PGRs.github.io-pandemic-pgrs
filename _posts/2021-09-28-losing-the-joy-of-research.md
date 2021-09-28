@@ -2,7 +2,7 @@
 date: 2021-09-28T04:38:00.000+00:00
 layout: post
 title: Losing the joy of research
-sub_heading: ''
+sub_heading: Isolation has sucked the soul from my research
 tags: []
 banner_image: ''
 related_posts: []
