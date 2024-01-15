@@ -1,5 +1,7 @@
 /** CUSTOM CSS **/
-
+.button {
+	@extend button;
+}
 
 
 
