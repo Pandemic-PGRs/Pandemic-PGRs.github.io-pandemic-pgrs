@@ -45,7 +45,7 @@ This pledge has been written by PGR UCU members across the UK in conversation wi
 
 We have invited responses from all candidates for positions that PGRs (as HE members) will vote for in the 2024 UK-wide UCU elections (General Secretary, Trustee, Vice-President, NEC HE positions, NEC Women's and Land-based positions). We recognise that no-one in any of these positions can acomplish these goals alone, so we have asked candidates to pledge to use their elected role to push for these goals alongside the rest of UCU members, staff, and democratic structures.
 
-We were pleased to receive responses from most candidates. [Our survey remains open](https://docs.google.com/forms/d/e/1FAIpQLSf5cccvBTZv1YbtySZCJoYSNRc7Gvx4-0FlwEChcASWoowSaA/viewform) for other candidates to provide responses. Alternatively, candidates can use this short form to provide a general comment without responding to the pledge items.
+We were pleased to receive responses from most candidates. [Our survey remains open](https://docs.google.com/forms/d/e/1FAIpQLSf5cccvBTZv1YbtySZCJoYSNRc7Gvx4-0FlwEChcASWoowSaA/viewform) for other candidates to provide responses. Alternatively, [candidates can use this short form to provide a general comment without responding to the pledge items](https://docs.google.com/forms/d/e/1FAIpQLSeweKDSYpJhLB8c5hCNHTsZufbQ_ilDrULaQA-qKUA848Rkiw/viewform).
 
 In the below tables, we publish all candidates' responses to the six pledge items.
 
