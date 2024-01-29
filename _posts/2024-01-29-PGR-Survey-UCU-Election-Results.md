@@ -73,9 +73,7 @@ _**If elected to the position of [role], I pledge that I will push for UCU to do
 
 ## General Secretary candidates
 
-
- | **Pledges** | **Open letters about PGR concerns** ||||||||||
-| **Candidate name** | **1** | **2** | **3** | **4** | **5** | **6** | **Covid-19 (5 letters)** | **CoL crisis (1)** | **PGRs as Staff jobs (3)** | **AHRC funding (1)** |
+| Candidate name | P1 | P2 | P3 | P4 | P5 | P6 | Covid-19 (5 letters) | CoL crisis (1) | PGRs as Staff jobs (3) | AHRC funding (1) |
 | [Vicky Blake](https://vickyblakeucu.uk/) | Y | Y | Y | Y | Y | Y | Signed 1 | | Signed 3, co- organised 1 | Signed |
 | [Jo Grady](https://grady4gs.com/) | Y | Y | \* | Y | \* | \* | Signed 1 | | _Recipient of 2_ | |
 | [Ewan McGaughey](https://ewanmg.uk/) | Y | Y | Y | Y | Y | Y | | | | |
@@ -135,8 +133,7 @@ I didn't do this alone but with two brilliant GTA officers, in particular, who h
 
 ## Trustee candidates
 
-| **Pledges** | **Open letters about PGR concerns** ||||||||||
-| Candidate name | 1 | 2 | 3 | 4 | 5 | 6 | Covid-19 (5 letters) | CoL crisis (1) | PGRs as Staff jobs (3) | AHRC funding (1) |
+| Candidate name | P1 | P2 | P3 | P4 | P5 | P6 | Covid-19 (5 letters) | CoL crisis (1) | PGRs as Staff jobs (3) | AHRC funding (1) |
 | Mike Barton | | | | | | | | | Signed 1 | |
 | Steve Sangwine | Declined to comment |||||| | | | |
 
@@ -144,8 +141,7 @@ I didn't do this alone but with two brilliant GTA officers, in particular, who h
 
 ## Vice-President (from FE sector) candidates
 
-| **Pledges** | **Open letters about PGR concerns** ||||||||||
-| Candidate name | 1 | 2 | 3 | 4 | 5 | 6 | Covid-19 (5 letters) | CoL crisis (1) | PGRs as Staff jobs (3) | AHRC funding (1) |
+| Candidate name | P1 | P2 | P3 | P4 | P5 | P6 | Covid-19 (5 letters) | CoL crisis (1) | PGRs as Staff jobs (3) | AHRC funding (1) |
 | [Peter Evans](https://peterevans4vpucu.org/) | Y | Y | Y | Y | Y | Y | | | | |
 | David Hunter | | | | | | | | | | |
 
@@ -159,8 +155,7 @@ I didn't do this alone but with two brilliant GTA officers, in particular, who h
 
 ## NEC (Northern Ireland HE) candidate
 
-| **Pledges** | **Open letters about PGR concerns** ||||||||||
-| Candidate name | 1 | 2 | 3 | 4 | 5 | 6 | Covid-19 (5 letters) | CoL crisis (1) | PGRs as Staff jobs (3) | AHRC funding (1) |
+| Candidate name | P1 | P2 | P3 | P4 | P5 | P6 | Covid-19 (5 letters) | CoL crisis (1) | PGRs as Staff jobs (3) | AHRC funding (1) |
 | Aisling O'Beirn | Y | Y | Y | Y | Y | Y | Signed 1 | Signed | Signed 2 | |
 
 **Note:** This election is uncontested so Aisling will be elected.
@@ -173,8 +168,7 @@ I didn't do this alone but with two brilliant GTA officers, in particular, who h
 
 ## NEC (Wales HE) candidates
 
-| **Pledges** | **Open letters about PGR concerns** ||||||||||
-| Candidate name | 1 | 2 | 3 | 4 | 5 | 6 | Covid-19 (5 letters) | CoL crisis (1) | PGRs as Staff jobs (3) | AHRC funding (1) |
+| Candidate name | P1 | P2 | P3 | P4 | P5 | P6 | Covid-19 (5 letters) | CoL crisis (1) | PGRs as Staff jobs (3) | AHRC funding (1) |
 | Phillip Allsopp | | | | | | | | | | |
 | Estelle Hart | \* | Y | Y | Y | Y | \* |  | Signed | | |
 
@@ -195,8 +189,7 @@ Response to pledge 6, PGR representation in UCU: "Again half and half, pgr reps 
 
 ## NEC (North East England HE) candidates
 
-| **Pledges** | **Open letters about PGR concerns** ||||||||||
-| Candidate name | 1 | 2 | 3 | 4 | 5 | 6 | Covid-19 (5 letters) | CoL crisis (1) | PGRs as Staff jobs (3) | AHRC funding (1) |
+| Candidate name | P1 | P2 | P3 | P4 | P5 | P6 | Covid-19 (5 letters) | CoL crisis (1) | PGRs as Staff jobs (3) | AHRC funding (1) |
 | Andrew Feeney | | | | | | | | | | |
 | Josh Moos | Y | Y | Y | Y | \* | Y | | | | |
 | Sam Morecroft | Y | Y | Y | Y | Y | Y | Signed 2 | Signed | Signed 3 | |
@@ -223,8 +216,7 @@ Response to pledge 5, PGR input into disputes: "Yes, on the basis that such mech
 
 ## NEC (London & East England HE) candidates
 
-| **Pledges** | **Open letters about PGR concerns** ||||||||||
-| **Candidate name** | **1** | **2** | **3** | **4** | **5** | **6** | **Covid-19 (5 letters)** | **CoL crisis (1)** | **PGRs as Staff jobs (3)** | **AHRC funding (1)** |
+| Candidate name | P1 | P2 | P3 | P4 | P5 | P6 | Covid-19 (5 letters) | CoL crisis (1) | PGRs as Staff jobs (3) | AHRC funding (1) |
 | Michael Abberton | Y | Y | Y | Y | Y | Y | | | | |
 | Robin Clarke | | | | | | | | | | |
 | Alison Hawkings | Y | Y | Y | Y | Y | Y | | | | |
@@ -277,8 +269,7 @@ PGRs need and deserve much more. PGRs forever!"
 
 ## NEC (UK-elected HE) candidates
  
-| **Pledges** | **Open letters about PGR concerns** ||||||||||
-| **Candidate name** | **1** | **2** | **3** | **4** | **5** | **6** | **Covid-19 (5 letters)** | **CoL crisis (1)** | **PGRs as Staff jobs (3)** | **AHRC funding (1)** |
+| Candidate name | P1 | P2 | P3 | P4 | P5 | P6 | Covid-19 (5 letters) | CoL crisis (1) | PGRs as Staff jobs (3) | AHRC funding (1) |
 | Michael Abberton | Y | Y | Y | Y | Y | Y | | | | |
 | Alan Barker | Y | Y | Y | Y | Y | Y | | | Signed 1 | |
 | Donna Brown | Y | Y | Y | \* | \* | \* | | | Signed 3 | |
@@ -354,8 +345,7 @@ PGRs need and deserve much more. PGRs forever!"
 
 ## Representatives of women members (HE) candidates
 
-| **Pledges** | **Open letters about PGR concerns** ||||||||||
-| Candidate name | 1 | 2 | 3 | 4 | 5 | 6 | Covid-19 (5 letters) | CoL crisis (1) | PGRs as Staff jobs (3) | AHRC funding (1) |
+| Candidate name | P1 | P2 | P3 | P4 | P5 | P6 | Covid-19 (5 letters) | CoL crisis (1) | PGRs as Staff jobs (3) | AHRC funding (1) |
 | Laura Chuhan Campbell | Y | Y | \* | Y | \* | Y | | | | Signed |
 | Jo Edge | Y | Y | \* | Y | \* | Y | Signed 1 | | | Signed |
 | Ann Gow | | | | | | | | | | |
@@ -401,8 +391,7 @@ Response to pledge 5, PGR input into disputes: "I agree with the first part of t
 
 ## Representatives of women members (FE) candidates
 
-| **Pledges** | **Open letters about PGR concerns** ||||||||||
-| Candidate name | 1 | 2 | 3 | 4 | 5 | 6 | Covid-19 (5 letters) | CoL crisis (1) | PGRs as Staff jobs (3) | AHRC funding (1) |
+| Candidate name | P1 | P2 | P3 | P4 | P5 | P6 | Covid-19 (5 letters) | CoL crisis (1) | PGRs as Staff jobs (3) | AHRC funding (1) |
 | Safia Flissi | | | | | | | | | | |
 | Regine Pilling | Y | Y | Y | Y | \* | Y | | | | |
 | Pauline Rattery | Y | Y | Y | Y | Y | Y | | | | |
@@ -420,8 +409,7 @@ Response to pledge 5, PGR input into disputes: "I completely agree with the firs
 
 ## Representative of land-based members candidate
 
-| **Pledges** | **Open letters about PGR concerns** ||||||||||
-| Candidate name | 1 | 2 | 3 | 4 | 5 | 6 | Covid-19 (5 letters) | CoL crisis (1) | PGRs as Staff jobs (3) | AHRC funding (1) |
+| Candidate name | P1 | P2 | P3 | P4 | P5 | P6 | Covid-19 (5 letters) | CoL crisis (1) | PGRs as Staff jobs (3) | AHRC funding (1) |
 | Kate Ferguson (FE) | | | | | | | | | | |
 
 **Note:** This election is uncontested so Kate will be elected.
