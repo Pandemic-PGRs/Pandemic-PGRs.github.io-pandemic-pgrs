@@ -21,6 +21,13 @@
 	padding-top:0;
 }
 
+/* TABLES
+*/
+.main-content table td {
+	padding:3px;
+	border:1px solid #aaa;
+}
+
 /* Navigation
 */
 
