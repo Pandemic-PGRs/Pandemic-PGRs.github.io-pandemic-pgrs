@@ -26,6 +26,7 @@
 .main-content table td {
 	padding:3px;
 	border:1px solid #aaa;
+	text-align: center;
 }
 
 /* Navigation
