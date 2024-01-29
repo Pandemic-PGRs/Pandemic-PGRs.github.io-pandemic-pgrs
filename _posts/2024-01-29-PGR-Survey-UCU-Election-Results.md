@@ -71,6 +71,8 @@ _**If elected to the position of [role], I pledge that I will push for UCU to do
 
 1. **PGR representation in UCU:** Push for PGR reps on committees (with facilities time) in all branches with PGRs, as per motion [HE24](https://www.ucu.org.uk/article/12950/Higher-Education-Sector-Conference) at Congress 2023. Ensure PGR eligibility for full membership and legal support as per motions [42-43](https://www.ucu.org.uk/article/12946/Rule-changes) is respected across the union.
 
+**In the below tables, we publish all candidates’ responses to the six pledge items*, in the columns labelled P1-P6**
+
 ## General Secretary candidates
 
 | **Candidate name** | **P1** | **P2** | **P3** | **P4** | **P5** | **P6** | **Covid-19 (5 letters)** | **CoL crisis (1)** | **PGRs as Staff jobs (3)** | **AHRC funding (1)** |
