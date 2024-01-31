@@ -145,7 +145,7 @@ I didn't do this alone but with two brilliant GTA officers, in particular, who h
 
 | **Candidate name** | **P1** | **P2** | **P3** | **P4** | **P5** | **P6** | **Covid-19 (5 letters)** | **CoL crisis (1)** | **PGRs as Staff jobs (3)** | **AHRC funding (1)** |
 | [Peter Evans](https://peterevans4vpucu.org/) | Y | Y | Y | Y | Y | Y | | | | |
-| David Hunter | Y | Y | * | Y | * | * | | | | |
+| [David Hunter](https://davidforucuvp.wordpress.com) | Y | Y | * | Y | * | * | | | | |
 
 ### Comments from candidates:
 
