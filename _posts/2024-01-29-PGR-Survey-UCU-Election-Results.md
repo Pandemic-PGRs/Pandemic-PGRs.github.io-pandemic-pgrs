@@ -145,15 +145,16 @@ I didn't do this alone but with two brilliant GTA officers, in particular, who h
 
 | **Candidate name** | **P1** | **P2** | **P3** | **P4** | **P5** | **P6** | **Covid-19 (5 letters)** | **CoL crisis (1)** | **PGRs as Staff jobs (3)** | **AHRC funding (1)** |
 | [Peter Evans](https://peterevans4vpucu.org/) | Y | Y | Y | Y | Y | Y | | | | |
-| David Hunter | | | | | | | | | | |
-
-**Note:** David Hunter has asked to talk this through further before they respond, so we are organising this.
+| David Hunter | Y | Y | * | Y | * | * | | | | |
 
 ### Comments from candidates:
 
 **Peter Evans: General comment**
 
 "Please visit my website, it contains my election address, a bit about me and my policy proposals and vision for UCU:[https://peterevans4vpucu.org/](https://peterevans4vpucu.org/) Thank you for getting in touch. With best wishes, Peter"
+
+**David Hunter: General comment**
+I am employed partly on a casualised contract, am committed to fighting casualisation across our sectors, and committed to the PGRs as staff campaign. I am also an organiser and am committed to organising as the basis of campaigning. Please see my website for more information on my campaign at [https://davidforucuvp.wordpress.com](https://davidforucuvp.wordpress.com).
 
 ## NEC (Northern Ireland HE) candidate
 
