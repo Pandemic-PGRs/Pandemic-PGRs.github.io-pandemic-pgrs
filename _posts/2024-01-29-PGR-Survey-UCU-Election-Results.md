@@ -154,7 +154,8 @@ I didn't do this alone but with two brilliant GTA officers, in particular, who h
 "Please visit my website, it contains my election address, a bit about me and my policy proposals and vision for UCU:[https://peterevans4vpucu.org/](https://peterevans4vpucu.org/) Thank you for getting in touch. With best wishes, Peter"
 
 **David Hunter: General comment**
-I am employed partly on a casualised contract, am committed to fighting casualisation across our sectors, and committed to the PGRs as staff campaign. I am also an organiser and am committed to organising as the basis of campaigning. Please see my website for more information on my campaign at [https://davidforucuvp.wordpress.com](https://davidforucuvp.wordpress.com).
+
+"I am employed partly on a casualised contract, am committed to fighting casualisation across our sectors, and committed to the PGRs as staff campaign. I am also an organiser and am committed to organising as the basis of campaigning. Please see my website for more information on my campaign at [https://davidforucuvp.wordpress.com](https://davidforucuvp.wordpress.com)."
 
 ## NEC (Northern Ireland HE) candidate
 
