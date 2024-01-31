@@ -149,6 +149,11 @@ I didn't do this alone but with two brilliant GTA officers, in particular, who h
 
 ### Comments from candidates:
 
+**David Hunter: Responses to Pledge Items**
+Response to pledge 3, Increased organising resource and focus: "The number of issues our sectors face means that there are always conflicting demands on resources, and therefore staffing. I fully support the PGRs as staff campaign and I will always prioritise work that improves the lot of those members with the poorest terms and conditions. I will take my place in the structures of the union to implement the decisions of congress and direct the resources of the union in the best interests of members."
+Response to pledge 5, PGR input into disputes: "I support ensuring that PGRs and casualised staff have input into all relevant areas of union work. That may not mean introducing new mechanisms, however. It may be that current mechanisms can be reviewed to ensure that they are able to do this."
+Response to pledge 6, PGR representation in UCU: "I support PGR representation in branch and action to ensure necessary facilities time for all reps. I think that representation for PGRs may be clouded by their status as both students and staff, and I think we would need to implement these motions with due regard to this complexity."
+
 **Peter Evans: General comment**
 
 "Please visit my website, it contains my election address, a bit about me and my policy proposals and vision for UCU:[https://peterevans4vpucu.org/](https://peterevans4vpucu.org/) Thank you for getting in touch. With best wishes, Peter"
