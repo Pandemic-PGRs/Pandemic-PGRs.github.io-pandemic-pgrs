@@ -133,6 +133,12 @@ I'm delighted to stand by all of the pledges of the PGR network, and if you vote
 
 I didn't do this alone but with two brilliant GTA officers, in particular, who helped drive change at KCL. If you vote for me, every branch will get the resources and planning to advance workers' rights everywhere, not just fight against things constantly getting worse. As a labour law expert, and as the only candidate with a record of success in collective bargaining, not failure, I will bring the full force of our union to create a new and better future for higher education, and that future begins with PGR workers. Please keep organising and share the platform with your colleagues, at [www.ewanmg.uk](http://www.ewanmg.uk/)
 
+**Saira Weiner: General Comment**
+
+PGRs and casualised members of staff are a crucial and integral part of the future and recent battles of the union. We cannot return to a two-tier union that did not fight casualisation. I wholeheartedly supported the PGRs as staff campaign and was horrified to see a short-term contract used for UCU staff leading the campaign. 
+
+In my branch we have made recruitment of casualised staff and PGRs a priority. Casualisation is about equality disproportionately affecting the marginalised and silenced. I fear that the failure to meet the threshold in the recent ballot and all talk of ‘rebranding’ the four fights and the end of the cycle of industrial action will jeopardise all the gains that have been won up and down the country. And prevent the action we need to fight job losses that hit the casualised first. With the current employers’ offensive, we are all casualised workers.
+
 ## Trustee candidates
 
 | **Candidate name** | **P1** | **P2** | **P3** | **P4** | **P5** | **P6** | **Covid-19 (5 letters)** | **CoL crisis (1)** | **PGRs as Staff jobs (3)** | **AHRC funding (1)** |
@@ -357,6 +363,12 @@ I was appalled to learn about how a disabled colleague in their PhD writing up y
 
 PGRs need and deserve much more. PGRs forever!"
 
+**Saira Weiner: General Comment**
+
+PGRs and casualised members of staff are a crucial and integral part of the future and recent battles of the union. We cannot return to a two-tier union that did not fight casualisation. I wholeheartedly supported the PGRs as staff campaign and was horrified to see a short-term contract used for UCU staff leading the campaign. 
+
+In my branch we have made recruitment of casualised staff and PGRs a priority. Casualisation is about equality disproportionately affecting the marginalised and silenced. I fear that the failure to meet the threshold in the recent ballot and all talk of ‘rebranding’ the four fights and the end of the cycle of industrial action will jeopardise all the gains that have been won up and down the country. And prevent the action we need to fight job losses that hit the casualised first. With the current employers’ offensive, we are all casualised workers.
+
 ## Representatives of women members (HE) candidates
 
 | **Candidate name** | **P1** | **P2** | **P3** | **P4** | **P5** | **P6** | **Covid-19 (5 letters)** | **CoL crisis (1)** | **PGRs as Staff jobs (3)** | **AHRC funding (1)** |
@@ -404,6 +416,12 @@ I am a PGR myself in a pre-92 but also teach at a post-92. I have always thought
 **Marian Mayer: General comment**
 
 "Thank you for doing this important work. Please note that I voted in favour of the motions referred to here at congress."
+
+**Saira Weiner: General Comment**
+
+PGRs and casualised members of staff are a crucial and integral part of the future and recent battles of the union. We cannot return to a two-tier union that did not fight casualisation. I wholeheartedly supported the PGRs as staff campaign and was horrified to see a short-term contract used for UCU staff leading the campaign. 
+
+In my branch we have made recruitment of casualised staff and PGRs a priority. Casualisation is about equality disproportionately affecting the marginalised and silenced. I fear that the failure to meet the threshold in the recent ballot and all talk of ‘rebranding’ the four fights and the end of the cycle of industrial action will jeopardise all the gains that have been won up and down the country. And prevent the action we need to fight job losses that hit the casualised first. With the current employers’ offensive, we are all casualised workers.
 
 ## Representatives of women members (FE) candidates
 
