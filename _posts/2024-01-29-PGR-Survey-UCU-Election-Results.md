@@ -307,9 +307,7 @@ PGRs need and deserve much more. PGRs forever!"
 | Mark Taylor-Batty | Y | Y | Y | Y | \* | Y | | | | Signed |
 | [Cecilia Wee](https://www.ceciliawee.com/ucu-nec-campaign-2024) | Y | Y | Y | Y | Y | Y | | | Signed 2 | Signed |
 | [Saira Weiner](https://saira4gs.wordpress.com/) | Y | Y | Y | Y | Y | Y | | | Signed 2 | |
-| Sophia Woodman | | | | | | | | | | Signed |
-
-**Note:** We have had correspondence with Peta Bulmer and Sophia Woodman and expect a response or comments from them soon.
+| Sophia Woodman | * | * | * | * | * | * | | | | Signed |
 
 ### Comments from candidates:
 
@@ -368,6 +366,14 @@ PGRs need and deserve much more. PGRs forever!"
 PGRs and casualised members of staff are a crucial and integral part of the future and recent battles of the union. We cannot return to a two-tier union that did not fight casualisation. I wholeheartedly supported the PGRs as staff campaign and was horrified to see a short-term contract used for UCU staff leading the campaign. 
 
 In my branch we have made recruitment of casualised staff and PGRs a priority. Casualisation is about equality disproportionately affecting the marginalised and silenced. I fear that the failure to meet the threshold in the recent ballot and all talk of ‘rebranding’ the four fights and the end of the cycle of industrial action will jeopardise all the gains that have been won up and down the country. And prevent the action we need to fight job losses that hit the casualised first. With the current employers’ offensive, we are all casualised workers.
+
+**Sophia Woodman: General Comment**
+
+I am strongly in support of the UCU policy of recognizing PGRs as staff. 
+
+My experience of union work so far has been primarily local, in my branch. I’ve come into union work through standing shoulder-to-shoulder with my PGR colleagues to demand that they be paid in full for all the work they do, that they have paid training to equip them with the skills they need to do their work and that they have office space to work in. Pivotal to our campaigning has been the 2019 Collective Agreement UCU Edinburgh reached with our employer, which sets out a number of commitments to reducing casualisation, and includes provisions on all work for guaranteed hours staff (the contract type for PGRs at Edinburgh) being paid and on provision of paid training. Ensuring that these promises get implemented has been a constant, and on-going, struggle.
+
+My view is that we need to think of such local struggles, and local agreements, as building blocks towards our objective of PGRs as staff. National policy is good in setting objectives for our work, but to make it a reality, we have to work from the ground up. That will be my approach if elected to NEC.
 
 ## Representatives of women members (HE) candidates
 
