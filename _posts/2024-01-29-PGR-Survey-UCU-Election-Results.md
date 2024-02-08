@@ -31,7 +31,7 @@ For the first time since a recent UCU rule change, **any PGR (postgraduate resea
 Here's how to become a full member:
 
 - If you have a staff role at the same university as your PGR enrolment: Make sure you are on Standard Free or Standard membership at [my.ucu.org.uk](https://my.ucu.org.uk/app/utils/login_form/redirect/membership).
-- If you do not have a staff role alongside your PGR enrolment: Transfer from Student membership to the new full PGR membership by completing [this form](https://yoursay.ucu.org.uk/s3/PGR-rule-change-membership-transfer) and [this direct debit authorisation](https://list.mercury.ucu.org.uk/t/283192/93269863/21490/6/).
+- If you do not have a staff role alongside your PGR enrolment: Transfer from Student membership to the new full PGR membership by completing [this form](https://yoursay.ucu.org.uk/s3/PGR-rule-change-membership-transfer) and [this direct debit authorisation](https://list.mercury.ucu.org.uk/t/283192/93269863/21490/6/). If using the printed form, print the form, fill it in, then scan and email it to [UCU membership team at membership@ucu.org.uk](mailto:membership@ucu.org.uk)
 
 If you are not yet a UCU member, you can join at [join.ucu.org.uk](http://join.ucu.org.uk/) and select the relevant membership. If you do not have a staff role, you will have to select Student membership when you sign up, and then complete the above-linked forms to transfer from Student to the new full PGR membership. (This is because the website system is still being updated so doesn't yet have an option for the new PGR full membership.)
 
