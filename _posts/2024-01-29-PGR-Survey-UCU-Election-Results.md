@@ -40,6 +40,41 @@ Membership [subscriptions](https://www.ucu.org.uk/subscriptions) are progressive
 
 You need to be a full member by **9 February** to be eligible to receive ballots and vote.
 
+## General Information
+
+While most of this page is dedicated to PGR specific information, PGRs might be interested to look at more general information too. This is discussed first, but skip this if you are only interested in survey results. 
+
+UCU elections page, where you can see candidate statements, role descriptions, details on the elections, recordings of national hustings, etc.
+
+-   [www.ucu.org.uk/elections-2023-24](https://newsletter.durhamucu.org.uk/lt.php?tid=cUQIU1hQUV9dXx5YUAYCGQQHVlEUWgUEAx1QU1BXUFIPW1UFVgcfVABRUAQAAAAZBlECBxRXVV0DHVJQB1FPWApdVgEDVwdQClFWHVUEAgBTVQYAFFIJAFAdB1UCBE9YCgsEGgIBWgIPBQBQBFJXDQ)
+
+UCU democratic structures - by UCU member Chris Morris
+
+-   [drive.google.com/file/d/1Mdj6WNPtAFiWS7hyjmx4CF-lKGAxq1ti/view?usp=sharing](https://newsletter.durhamucu.org.uk/lt.php?tid=cUQJAAVWV1MKVh5VAwgCGQRQUQAUAVQGAx1VAFQDVlgKDQAHVlUfVABRUAQAAAAZBlECBxRXVV0DHVJQB1FPWApdVgEDVwdQClFWHVUEAgBTVQYAFFIJAFAdB1UCBE9YCgsEGgIBWgIPBQBQBFJXDQ)
+
+We are not the only non-factional survey to be conducted of candidates. See below for two others:
+
+-   [Divest USS survey](https://newsletter.durhamucu.org.uk/lt.php?tid=cURVVVABAAcNUx4DBAYHGQRVA1cUAQVVBB0DBwwAVFcJWgYOVVwfVABRUAQAAAAZBlECBxRXVV0DHVJQB1FPWApdVgEDVwdQClFWHVUEAgBTVQYAFFIJAFAdB1UCBE9YCgsEGgIBWgIPBQBQBFJXDQ) (GS election)
+-   [Mark Taylor-Batty & Jackie Grant (USS negotiators) survey](https://newsletter.durhamucu.org.uk/lt.php?tid=cURWUwQGW1QIBB5VWwJXGQRdCVMUAVJVBx1WVlRXAAcKAQUGBAQfVABRUAQAAAAZBlECBxRXVV0DHVJQB1FPWApdVgEDVwdQClFWHVUEAgBTVQYAFFIJAFAdB1UCBE9YCgsEGgIBWgIPBQBQBFJXDQ) (GS)
+
+While the PGR survey was done in an non-factional manner, PGRs may be interested in looking at recommendations of factional groups for their views:
+
+-   [UCU Rank and File Network voting recommendations](https://newsletter.durhamucu.org.uk/lt.php?tid=cUQJAlZRV19YVR5VWlUCGQQBAlAUWgFXVh0KAwQDVgIPClEEUFcfVABRUAQAAAAZBlECBxRXVV0DHVJQB1FPWApdVgEDVwdQClFWHVUEAgBTVQYAFFIJAFAdB1UCBE9YCgsEGgIBWgIPBQBQBFJXDQ) (all elections)
+-   [Campaign for UCU Democracy voting recommendations](https://newsletter.durhamucu.org.uk/lt.php?tid=cUQHBwdcAgAOXx5YV1JVGQRSBlIUAgIEVh0DAwVQV1ILWVMEAwMfVABRUAQAAAAZBlECBxRXVV0DHVJQB1FPWApdVgEDVwdQClFWHVUEAgBTVQYAFFIJAFAdB1UCBE9YCgsEGgIBWgIPBQBQBFJXDQ) (all elections)
+-   [Grady 4 GS slate](https://newsletter.durhamucu.org.uk/lt.php?tid=cUQJAAdWAlJfUh5WUVAEGQRQA1QUAgABAB0FBwUDAVVdDlEAVQMfVABRUAQAAAAZBlECBxRXVV0DHVJQB1FPWApdVgEDVwdQClFWHVUEAgBTVQYAFFIJAFAdB1UCBE9YCgsEGgIBWgIPBQBQBFJXDQ) (all elections)
+-   [UCU Commons slate](https://newsletter.durhamucu.org.uk/lt.php?tid=cURUA1NWAFIKAx4CU1VQGQRcU1YUWlIDVh0EBANWUVABWQQFAwEfVABRUAQAAAAZBlECBxRXVV0DHVJQB1FPWApdVgEDVwdQClFWHVUEAgBTVQYAFFIJAFAdB1UCBE9YCgsEGgIBWgIPBQBQBFJXDQ) and [endorsements](https://newsletter.durhamucu.org.uk/lt.php?tid=cUQBU1JSUFZcAh5YUwEFGQRUBl4UW1RRAR1WBwQAVFBbDQFTWFAfVABRUAQAAAAZBlECBxRXVV0DHVJQB1FPWApdVgEDVwdQClFWHVUEAgBTVQYAFFIJAFAdB1UCBE9YCgsEGgIBWgIPBQBQBFJXDQ) (HE elections)
+-   [UCU Left slate](https://newsletter.durhamucu.org.uk/lt.php?tid=cURRBwNWU1AJAB4CBwIFGQQCBV4UWwcHWx0KVQFUUFJaDgkHBAQfVABRUAQAAAAZBlECBxRXVV0DHVJQB1FPWApdVgEDVwdQClFWHVUEAgBTVQYAFFIJAFAdB1UCBE9YCgsEGgIBWgIPBQBQBFJXDQ) (all elections)
+
+A number of hustings have taken place, these discuss general issues facing the sector but may be useful for PGRs to watch.
+
+-   [Yorkshire & the Humber](https://newsletter.durhamucu.org.uk/lt.php?tid=cUQFUwQEVlEJBx4HBFdVGQRVUgAUWwBXVR0FBldWVAMOAQgFWF0fVABRUAQAAAAZBlECBxRXVV0DHVJQB1FPWApdVgEDVwdQClFWHVUEAgBTVQYAFFIJAFAdB1UCBE9YCgsEGgIBWgIPBQBQBFJXDQ) (GS)
+-   [East Midlands](https://newsletter.durhamucu.org.uk/lt.php?tid=cURTAlldUFQAUx5SBFVSGQRdBlcUAVFUWx0KUgFWAFQKDFQHBVYfVABRUAQAAAAZBlECBxRXVV0DHVJQB1FPWApdVgEDVwdQClFWHVUEAgBTVQYAFFIJAFAdB1UCBE9YCgsEGgIBWgIPBQBQBFJXDQ) (GS)
+-   [Southampton](https://newsletter.durhamucu.org.uk/lt.php?tid=cUQDAQBcAgUKAx4HVlNWGQRXAAAUWgNQUh0KAwQBAwQMAQFRUlIfVABRUAQAAAAZBlECBxRXVV0DHVJQB1FPWApdVgEDVwdQClFWHVUEAgBTVQYAFFIJAFAdB1UCBE9YCgsEGgIBWgIPBQBQBFJXDQ) (GS)
+-   [Cymru](https://newsletter.durhamucu.org.uk/lt.php?tid=cUQJUQRUB1FYUR4ABwIAGQQBA1YUW1ZWVh0KUlFVVVIIAAJSAF0fVABRUAQAAAAZBlECBxRXVV0DHVJQB1FPWApdVgEDVwdQClFWHVUEAgBTVQYAFFIJAFAdB1UCBE9YCgsEGgIBWgIPBQBQBFJXDQ) (GS)
+-   [Cambridge](https://newsletter.durhamucu.org.uk/lt.php?tid=cURWDllVUFZYBB5RW1cNGQQHUgIUAVFUUR0BBwVUUgIBAQUFUVcfVABRUAQAAAAZBlECBxRXVV0DHVJQB1FPWApdVgEDVwdQClFWHVUEAgBTVQYAFFIJAFAdB1UCBE9YCgsEGgIBWgIPBQBQBFJXDQ) (GS, opening statements only)
+-   [UCU HQ](https://newsletter.durhamucu.org.uk/lt.php?tid=cUQDAgNVV1VdUx4CAAhVGQRQBFEUWgNUBB1VUAIABFMPAFQOVFYfVABRUAQAAAAZBlECBxRXVV0DHVJQB1FPWApdVgEDVwdQClFWHVUEAgBTVQYAFFIJAFAdB1UCBE9YCgsEGgIBWgIPBQBQBFJXDQ) (GS)
+-   [UCU HQ](https://newsletter.durhamucu.org.uk/lt.php?tid=cURUDwBUBgIBAh5SUwgBGQRVBlYUAgBVVh0LB1BSUlcBDwUDUlMfVABRUAQAAAAZBlECBxRXVV0DHVJQB1FPWApdVgEDVwdQClFWHVUEAgBTVQYAFFIJAFAdB1UCBE9YCgsEGgIBWgIPBQBQBFJXDQ) (Vice-President)
+
 ## The PGR pledge and open letter responses
 
 This pledge has been written by PGR UCU members across the UK in conversation with various PGR networks. It reflects six items that we want from our elected representatives in our union to support PGR interests.
