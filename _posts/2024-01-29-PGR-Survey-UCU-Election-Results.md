@@ -44,18 +44,11 @@ You need to be a full member by **9 February** to be eligible to receive ballots
 
 While most of this page is dedicated to PGR specific information, PGRs might be interested to look at more general information too. This is discussed first, but skip this if you are only interested in survey results. 
 
-UCU elections page, where you can see candidate statements, role descriptions, details on the elections, recordings of national hustings, etc.
+There is a [UCU elections page](https://newsletter.durhamucu.org.uk/lt.php?tid=cUQIU1hQUV9dXx5YUAYCGQQHVlEUWgUEAx1QU1BXUFIPW1UFVgcfVABRUAQAAAAZBlECBxRXVV0DHVJQB1FPWApdVgEDVwdQClFWHVUEAgBTVQYAFFIJAFAdB1UCBE9YCgsEGgIBWgIPBQBQBFJXDQ), where you can see candidate statements, role descriptions, details on the elections, recordings of national hustings, etc, available on the UCU website at [www.ucu.org.uk/elections-2023-24](https://newsletter.durhamucu.org.uk/lt.php?tid=cUQIU1hQUV9dXx5YUAYCGQQHVlEUWgUEAx1QU1BXUFIPW1UFVgcfVABRUAQAAAAZBlECBxRXVV0DHVJQB1FPWApdVgEDVwdQClFWHVUEAgBTVQYAFFIJAFAdB1UCBE9YCgsEGgIBWgIPBQBQBFJXDQ)
 
--   [www.ucu.org.uk/elections-2023-24](https://newsletter.durhamucu.org.uk/lt.php?tid=cUQIU1hQUV9dXx5YUAYCGQQHVlEUWgUEAx1QU1BXUFIPW1UFVgcfVABRUAQAAAAZBlECBxRXVV0DHVJQB1FPWApdVgEDVwdQClFWHVUEAgBTVQYAFFIJAFAdB1UCBE9YCgsEGgIBWgIPBQBQBFJXDQ)
+To see information about the UCU democratic structures, you may be interested in this [UCU structures diagram by UCU member Chris Morris](https://newsletter.durhamucu.org.uk/lt.php?tid=cUQJAAVWV1MKVh5VAwgCGQRQUQAUAVQGAx1VAFQDVlgKDQAHVlUfVABRUAQAAAAZBlECBxRXVV0DHVJQB1FPWApdVgEDVwdQClFWHVUEAgBTVQYAFFIJAFAdB1UCBE9YCgsEGgIBWgIPBQBQBFJXDQ) 
 
-UCU democratic structures - by UCU member Chris Morris
-
--   [drive.google.com/file/d/1Mdj6WNPtAFiWS7hyjmx4CF-lKGAxq1ti/view?usp=sharing](https://newsletter.durhamucu.org.uk/lt.php?tid=cUQJAAVWV1MKVh5VAwgCGQRQUQAUAVQGAx1VAFQDVlgKDQAHVlUfVABRUAQAAAAZBlECBxRXVV0DHVJQB1FPWApdVgEDVwdQClFWHVUEAgBTVQYAFFIJAFAdB1UCBE9YCgsEGgIBWgIPBQBQBFJXDQ)
-
-We are not the only non-factional survey to be conducted of candidates. See below for two others:
-
--   [Divest USS survey](https://newsletter.durhamucu.org.uk/lt.php?tid=cURVVVABAAcNUx4DBAYHGQRVA1cUAQVVBB0DBwwAVFcJWgYOVVwfVABRUAQAAAAZBlECBxRXVV0DHVJQB1FPWApdVgEDVwdQClFWHVUEAgBTVQYAFFIJAFAdB1UCBE9YCgsEGgIBWgIPBQBQBFJXDQ) (GS election)
--   [Mark Taylor-Batty & Jackie Grant (USS negotiators) survey](https://newsletter.durhamucu.org.uk/lt.php?tid=cURWUwQGW1QIBB5VWwJXGQRdCVMUAVJVBx1WVlRXAAcKAQUGBAQfVABRUAQAAAAZBlECBxRXVV0DHVJQB1FPWApdVgEDVwdQClFWHVUEAgBTVQYAFFIJAFAdB1UCBE9YCgsEGgIBWgIPBQBQBFJXDQ) (GS)
+We are not the only non-factional survey to be conducted of candidates, there are also surveys by [Divest USS](https://newsletter.durhamucu.org.uk/lt.php?tid=cURVVVABAAcNUx4DBAYHGQRVA1cUAQVVBB0DBwwAVFcJWgYOVVwfVABRUAQAAAAZBlECBxRXVV0DHVJQB1FPWApdVgEDVwdQClFWHVUEAgBTVQYAFFIJAFAdB1UCBE9YCgsEGgIBWgIPBQBQBFJXDQ) (GS election) and there is a survey by [Mark Taylor-Batty & Jackie Grant (USS negotiators)](https://newsletter.durhamucu.org.uk/lt.php?tid=cURWUwQGW1QIBB5VWwJXGQRdCVMUAVJVBx1WVlRXAAcKAQUGBAQfVABRUAQAAAAZBlECBxRXVV0DHVJQB1FPWApdVgEDVwdQClFWHVUEAgBTVQYAFFIJAFAdB1UCBE9YCgsEGgIBWgIPBQBQBFJXDQ) (GS election)
 
 While the PGR survey was done in an non-factional manner, PGRs may be interested in looking at recommendations of factional groups for their views:
 
